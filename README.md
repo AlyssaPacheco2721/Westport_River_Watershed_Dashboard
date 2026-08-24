@@ -30,13 +30,13 @@ Major components include:
 
 ## Technical Workflow
 
-### 1. Watershed Boundary & Data Integration
+### 1. Watershed Boundary & Cross-Jurisdictional Data Integration
 
-Environmental data for the watershed were distributed across separate Massachusetts and Rhode Island datasets.
+A HUC12 watershed boundary from the National Watershed Boundary Dataset (WBD) was used to define the Westport River Watershed study area spanning Massachusetts and Rhode Island.
 
-A unified study boundary was created by integrating appropriate **MassGIS and RIGIS watershed data**, allowing subsequent analyses to represent the complete study area rather than only the Massachusetts portion.
+While the watershed boundary provided a unified hydrologic study area, many environmental datasets were maintained separately by Massachusetts and Rhode Island agencies. Subsequent analyses therefore required identifying comparable datasets across jurisdictions and integrating them to represent conditions across the complete watershed.
 
-Working across jurisdictions required identifying comparable datasets, cleaning and preparing spatial data, managing coordinate systems, and integrating layers into a common GIS environment.
+This process involved cleaning and preparing spatial data, managing coordinate systems, reconciling state-specific datasets, and integrating layers within a common GIS environment for watershed-scale analysis.
 
 ### 2. Land-Use Analysis
 
