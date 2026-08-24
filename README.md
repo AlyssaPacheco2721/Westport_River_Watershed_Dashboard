@@ -91,6 +91,8 @@ The component also presented examples of watershed-management approaches and con
 
 A central interactive map combines analytical outputs with supporting geographic and community reference information.
 
+[View full-resolution screenshot](images/watershed_overview_map.png) • [Explore interactive map](https://www.arcgis.com/apps/mapviewer/index.html?webmap=d2a628497b5e47f5826b4a6d35aadc74)
+
 Mapped features include:
 
 - Rivers and waterbodies
