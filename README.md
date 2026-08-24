@@ -178,7 +178,7 @@ The project integrates environmental and geospatial information from multiple au
 
 For dataset-level provenance, geographic coverage, project use, processing notes, and source links, see:
 
-➡️ **[Detailed Data Sources & Documentation](docs/data-sources.md)**
+➡️ **[Detailed Data Sources & Documentation](docs/data_sources.md)**
 
 ---
 
